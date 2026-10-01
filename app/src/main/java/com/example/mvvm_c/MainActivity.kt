@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
             Mvvm_cTheme () {
 
                 AppNavigation()
+                //Aplicacion C
 
             }
         }
